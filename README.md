@@ -1,2 +1,2 @@
 # iNProgramming_strap
-![]("./project2.jpg")
+<img src="/project2.jpg"/>
