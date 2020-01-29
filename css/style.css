@@ -155,6 +155,10 @@ body {
       height: 80px;
       width: 80px;
     }
+    #main form {
+      margin-top: 89px;
+      margin-bottom: 89px;
+  }
   }
   @media (max-width: 767px) {
     .navbar-default .navbar-nav .open .dropdown-menu > li > a {
