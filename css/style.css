@@ -148,16 +148,17 @@ body {
       font-size: 26px;
     }
      header .account_login {
-      margin-left: 100px;
+      margin-left: 90px;
       margin-top: -45px;
+      padding-botton: 50px;
     }
     header img {
       height: 80px;
       width: 80px;
     }
     #main form {
-      margin-top: 89px;
-      margin-bottom: 89px;
+      margin-top: 84px;
+      margin-bottom: 84px;
   }
   }
   @media (max-width: 767px) {
